@@ -40,7 +40,7 @@ While the current version detects simple finger counts and maps them to a few le
 
 ## 📷 Sample Output
 
-![sample output](sample%20output.png.png)
+![sample output](sample%20output.png)
 
 ---
 
